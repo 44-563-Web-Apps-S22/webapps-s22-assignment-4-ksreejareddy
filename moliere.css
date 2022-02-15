@@ -89,7 +89,7 @@ ul.navbar-horizontal li {
     margin-right: auto;
     width: 50%;
     text-align: center;
-    background-color:blueviolet;
+    background-color:rgb(182, 162, 201);
 }
   
 ul.navbar-horizontal a {
@@ -99,7 +99,7 @@ ul.navbar-horizontal a {
   
   /* on hover change the link color*/
 ul.navbar-horizontal a:hover {  
-    background-color: rgb(240, 18, 18);
+    background-color: rgb(43, 11, 11);
     color:rgb(223, 202, 202);
   }
 
