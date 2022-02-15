@@ -38,7 +38,7 @@
 
 
 
-td, th {
+td{
     padding-left: 12px;
     padding-right: 12px;
     padding-top: 10px;
@@ -47,7 +47,18 @@ td, th {
     font-size: medium;
     border: solid 1px;
     text-align: center;
-    color: rgb(65, 8, 22);
+    color:blanchedalmond;
+}
+ th {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: medium;
+    border: solid 1px;
+    text-align: center;
+    color: rgb(151, 9, 44);
 }
 tr {
     background-color:rgb(226, 164, 213) ;
