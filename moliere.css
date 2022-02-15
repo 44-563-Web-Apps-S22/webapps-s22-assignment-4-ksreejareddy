@@ -21,11 +21,12 @@
 }
 .Orgon
 {
-    color: pink;
+    color: rgb(26, 199, 104);
 }
 .Mariane{
     color: rgb(69, 22, 196);
 }
+
 
 .name:hover {
     border: 1px solid #7d4cd8;
